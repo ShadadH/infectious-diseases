@@ -1,1 +1,47 @@
-# infectious-diseases
+# Cholera Epidemic Data Analysis – Data Vizualization #1 (CDAD 1046EQ)
+
+## Overview
+
+This project investigates a cholera epidemic that occurred in 2023 in a large city in a low-income country. The analysis uses two datasets:
+
+- `cases.csv`: Weekly records of cholera cases and deaths among individuals aged 5 years and older.
+- `cc-study.csv`: A case-control study of cholera patients and controls, detailing socioeconomic, behavioral, and water/food-related exposures.
+
+The objective was to explore the progression of the epidemic, evaluate public health interventions, and identify key risk factors for infection.
+
+---
+
+## Repository Contents
+
+- Data Vizualization #1
+- `Dataviz1-2025.docx`: Assignment prompt and context
+- `Dataviz 1 Report.pdf`: Final report with answers, figures, and interpretations
+- `script/`: Directory containing R scripts used for analysis
+  - Annotated R code for plotting epidemic curve, computing CFR, and running regressions
+
+---
+
+## Tools Used
+
+- **R / RStudio**
+- **ggplot2**, **dplyr** for data visualization and analysis
+
+---
+
+## How to Reproduce the Analysis
+
+1. Load `cases.csv` and `cc-study.csv` into R.
+2. Use the provided scripts in the `/code` folder to:
+   - Plot epidemic curve
+   - Compute weekly CFR
+   - Run logistic regressions for case-control data
+3. Interpret output based on public health knowledge of cholera
+
+---
+
+## Author
+
+**Shadad Hossain**  
+CDAD 1046EQ – Data Visualization/Analysis  
+Spring 2025
+
