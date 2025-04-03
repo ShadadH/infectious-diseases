@@ -1,0 +1,332 @@
+﻿Gender,Age (years),Marital status,Occupation,Did you travel anywher in the 10 days before illness,Contact with diahhea patient,Did you attend any gathering or event,Type of drinking water,Where do you shop for fruits or vegetables,Did you eat food /water from food seller,How is refuse being disposed off,Disease presence
+gender,agegroup,marstat,occupation,travel,diarrhea_patient_contact,gathering,drinking_water,grocery_shop,food_source,waster_disposal,disease_status
+Female,21 and above,Married ,None,Yes,Yes,Yes,Well,Market,FoodSellers,BackyardBush,1
+Female,06-20 years,Single,None,No,Do not Know,No,BoreholeTap water,Do not remember,None,Burning,1
+Female,06-20 years,Single,None,No,No,No,Well,Do not remember,None,Bush,1
+Female,21 and above,Married ,None,Yes,Yes,Yes,Well,Do not remember,Neighbours,BackyardBush,1
+Female,21 and above,Married ,None,No,No,No,BoreholeTap water,Do not remember,None,Backyard,1
+Male,21 and above,Single,None,Yes,Do not Know,Yes,Well,Market,FoodSellers,BackyardBush,1
+Male,06-20 years,Single,None,Yes,Yes,Yes,Well,Market,FoodSellers,BackyardBush,1
+Female,21 and above,Single,None,Yes,No,Yes,Well,Do not remember,None,Bush,1
+Female,21 and above,Married ,None,Yes,Yes,No,Well,Market,Both,BackyardBush,1
+Female,06-20 years,Single,None,Yes,Yes,Yes,Well,Market,FoodSellers,BackyardBush,1
+Female,06-20 years,Single,None,Yes,Yes,Yes,Well,Market,FoodSellers,BackyardBush,1
+Female,21 and above,Married ,None,Yes,Yes,Yes,Well,Market,Neighbours,BackyardBush,1
+Female,06-20 years,Single,None,Yes,Yes,No,Well,Market,Neighbours,Backyard,1
+Male,21 and above,Married ,None,Yes,No,Yes,Well,Market,FoodSellers,BackyardBush,1
+Female,21 and above,Married ,None,Yes,Do not Know,No,Well,Market,Neighbours,Bush,1
+Female,06-20 years,Single,None,No,No,No,Well,Market,None,Backyard,1
+Female,06-20 years,Single,None,No,No,No,Well,Do not remember,None,Backyard,1
+Female,21 and above,Single,None,No,No,No,Well,Market,None,Backyard,1
+Male,06-20 years,Single,None,No,No,No,Well,Market,None,Backyard,1
+Female,21 and above,Married ,None,Yes,No,Yes,Well,Market,None,Backyard,1
+Male,21 and above,Single,Civil servant/Business,No,No,No,Well,Market,None,Backyard,1
+Female,06-20 years,Single,Civil servant/Business,No,No,No,Well,Market,FoodSellers,Backyard,1
+Female,06-20 years,Single,Civil servant/Business,No,No,No,Well,Market,None,Backyard,1
+Female,06-20 years,Single,None,No,No,No,Well,Market,None,Backyard,1
+Male,06-20 years,Single,None,No,No,No,Well,Market,None,Backyard,1
+Female,21 and above,Single,Civil servant/Business,No,No,No,Well,Market,None,Burning,1
+Male,21 and above,Single,None,Yes,Yes,Yes,Well,Market,Neighbours,BackyardBush,1
+Female,06-20 years,Single,None,Yes,Yes,No,Well,Market,Neighbours,Backyard,1
+Female,06-20 years,Married ,None,Yes,No,Yes,Well,Market,FoodSellers,BackyardBush,1
+Female,21 and above,Married ,None,Yes,Do not Know,No,Well,Market,Neighbours,Bush,1
+Female,06-20 years,Single,None,No,No,No,Well,Market,None,Backyard,1
+Female,06-20 years,Single,None,No,No,No,Well,Do not remember,None,Backyard,1
+Female,06-20 years,Single,None,No,No,No,Well,Market,None,Backyard,1
+Female,21 and above,Married ,Civil servant/Business,No,No,No,Well,Market,None,Backyard,1
+Female,06-20 years,Single,None,Yes,No,Yes,Well,Market,None,Backyard,1
+Female,21 and above,Single,None,No,No,No,Well,Market,None,Backyard,1
+Male,06-20 years,Single,None,No,Do not Know,Yes,Well,Market,Both,Bush,1
+Female,06-20 years,Single,None,Yes,Yes,Yes,Well,Do not remember,Both,Backyard,1
+Female,21 and above,Married ,None,Yes,Do not Know,Yes,Well,Road side,Neighbours,BackyardBush,1
+Female,06-20 years,Single,None,No,No,No,BoreholeTap water,Market,Both,BackyardBush,1
+Male,21 and above,Single,None,Yes,Do not Know,No,Well,Market,Both,BackyardBush,1
+Male,06-20 years,Single,None,Yes,Do not Know,Yes,Well,Market,FoodSellers,Burning,1
+Female,06-20 years,Single,Student,No,No,Yes,Well,Road side,Neighbours,BackyardBush,1
+Female,21 and above,Married ,None,No,Do not Know,No,Well,Market,Neighbours,BackyardBush,1
+Male,06-20 years,Single,None,No,No,No,Well,Market,Neighbours,BackyardBush,1
+Male,21 and above,Single,Student,No,No,No,Well,Road side,Both,BackyardBush,1
+Male,21 and above,Single,Student,No,No,Yes,BoreholeTap water,Market,Both,BackyardBush,1
+Male,06-20 years,Single,None,No,Do not Know,No,BoreholeTap water,Road side,Neighbours,Bush,1
+Female,21 and above,Married ,None,No,Do not Know,Yes,BoreholeTap water,Market,Neighbours,BackyardBush,1
+Male,06-20 years,Single,Student,Yes,Yes,Yes,Well,Road side,Both,BackyardBush,1
+Female,06-20 years,Single,None,No,Do not Know,Yes,BoreholeTap water,Market,Both,BackyardBush,1
+Female,06-20 years,Single,Student,No,Do not Know,Yes,Well,Market,Both,BackyardBush,1
+Male,21 and above,Single,Student,Yes,Do not Know,Yes,BoreholeTap water,Road side,Both,BackyardBush,1
+Female,06-20 years,Single,None,No,No,No,BoreholeTap water,Market,Both,BackyardBush,1
+Female,21 and above,Married,Student,No,No,No,BoreholeTap water,Market,None,Backyard,1
+Male,21 and above,Married,None,No,No,No,Well,Market,FoodSellers,Backyard,1
+Male,21 and above,Single,Student,No,No,No,BoreholeTap water,Market,None,Backyard,1
+Female,06-20 years,Single,Student,Yes,No,No,Well,Market,None,Backyard,1
+Female,21 and above,Single,Student,No,No,No,Well,Market,None,Backyard,1
+Female,06-20 years,Single,Student,No,No,No,Well,Market,None,Burning,1
+Male,06-20 years,Single,Student,Yes,Yes,Yes,BoreholeTap water,Market,Neighbours,BackyardBush,1
+Female,21 and above,Married,Student,No,Yes,No,BoreholeTap water,Market,Neighbours,Backyard,1
+Male,21 and above,Single,Student,No,No,Yes,BoreholeTap water,Market,FoodSellers,BackyardBush,1
+Male,06-20 years,Single,Student,No,Do not Know,No,BoreholeTap water,Market,Neighbours,Bush,1
+Male,06-20 years,Single,Civil servant/Business,No,No,No,Well,Market,None,Backyard,1
+Male,21 and above,Single,Student,Yes,No,No,Well,Do not remember,None,Backyard,1
+Female,06-20 years,Single,None,No,No,No,Well,Market,None,Backyard,1
+Male,21 and above,Single,Student,No,No,No,Well,Market,None,Backyard,1
+Female,21 and above,Married,Civil servant/Business,Yes,No,Yes,Well,Market,None,Backyard,1
+Male,06-20 years,Single,None,No,No,No,BoreholeTap water,Market,None,Backyard,1
+Male,06-20 years,Single,Student,No,Do not Know,Yes,BoreholeTap water,Market,Both,Bush,1
+Male,06-20 years,Single,Student,No,Yes,Yes,Well,Do not remember,Both,Backyard,1
+Female,21 and above,Single,Student,No,Do not Know,Yes,Well,Road side,Neighbours,BackyardBush,1
+Male,21 and above,Single,Student,Yes,No,No,BoreholeTap water,Market,Both,BackyardBush,1
+Female,21 and above,Married,Civil servant/Business,No,Do not Know,No,BoreholeTap water,Market,Both,BackyardBush,1
+Female,21 and above,Married,Civil servant/Business,No,Do not Know,Yes,Well,Market,FoodSellers,Burning,1
+Female,21 and above,Married,Civil servant/Business,Yes,No,Yes,BoreholeTap water,Road side,Neighbours,BackyardBush,1
+Male,21 and above,Single,Student,No,Do not Know,No,BoreholeTap water,Market,Neighbours,BackyardBush,1
+Female,21 and above,Married,Civil servant/Business,No,No,No,Well,Market,Neighbours,BackyardBush,1
+Female,06-20 years,Single,Student,No,No,No,Well,Road side,Both,BackyardBush,1
+Female,21 and above,Married,Civil servant/Business,No,No,Yes,BoreholeTap water,Market,Both,BackyardBush,1
+Female,06-20 years,Single,Student,Yes,Do not Know,No,BoreholeTap water,Road side,Neighbours,Bush,1
+Female,06-20 years,Single,Student,No,Do not Know,Yes,BoreholeTap water,Market,Neighbours,BackyardBush,1
+Male,21 and above,Married,Civil servant/Business,No,Yes,Yes,BoreholeTap water,Road side,Both,BackyardBush,1
+Female,06-20 years,Single,None,Yes,Do not Know,Yes,BoreholeTap water,Market,Both,BackyardBush,1
+Female,21 and above,Married,None,No,Do not Know,Yes,Well,Market,Both,BackyardBush,1
+Female,06-20 years,Single,Student,No,Do not Know,Yes,BoreholeTap water,Road side,Both,BackyardBush,1
+Male,21 and above,Married,None,No,No,No,BoreholeTap water,Market,Both,BackyardBush,1
+Female,21 and above,Married,Civil servant/Business,No,No,No,BoreholeTap water,Market,None,Backyard,1
+Male,06-20 years,Single,None,Yes,No,No,Well,Market,FoodSellers,Backyard,1
+Female,06-20 years,Single,Student,No,No,No,BoreholeTap water,Market,None,Backyard,1
+Female,21 and above,Single,Student,No,No,No,Well,Market,None,Backyard,1
+Male,06-20 years,Single,Student,Yes,No,No,Well,Market,None,Backyard,1
+Male,06-20 years,Single,Student,No,No,No,Well,Market,None,Burning,1
+Female,06-20 years,Single,Student,No,Yes,Yes,BoreholeTap water,Market,Neighbours,BackyardBush,1
+Male,06-20 years,Single,Student,No,Yes,No,BoreholeTap water,Market,Neighbours,Backyard,1
+Female,06-20 years,Single,Student,No,No,Yes,BoreholeTap water,Market,FoodSellers,BackyardBush,1
+Female,06-20 years,Single,Student,Yes,Do not Know,No,BoreholeTap water,Market,Neighbours,Bush,1
+Male,06-20 years,Single,None,No,No,No,Well,Market,None,Backyard,1
+Male,21 and above,Married,Civil servant/Business,No,No,No,Well,Do not remember,None,Backyard,1
+Male,06-20 years,Single,Student,Yes,No,No,Well,Market,None,Backyard,1
+Female,21 and above,Married,None,No,No,No,Well,Market,None,Backyard,1
+Male,21 and above,Married,Civil servant/Business,No,No,Yes,Well,Market,None,Backyard,1
+Male,06-20 years,Single,Civil servant/Business,No,No,No,BoreholeTap water,Market,None,Backyard,1
+Male,21 and above,Single,Student,No,Do not Know,Yes,BoreholeTap water,Market,Both,Bush,1
+Female,06-20 years,Single,None,Yes,Yes,Yes,Well,Do not remember,Both,Backyard,1
+Male,21 and above,Single,Student,No,No,Yes,Well,Market,None,Backyard,1
+Female,21 and above,Married,Civil servant/Business,No,No,No,BoreholeTap water,Market,None,Backyard,1
+Male,06-20 years,Single,None,No,Do not Know,Yes,BoreholeTap water,Market,Both,Bush,1
+Male,06-20 years,Single,Student,Yes,Yes,Yes,Well,Do not remember,Both,Backyard,1
+Female,06-20 years,Single,None,No,No,No,Well,Market,FoodSellers,Bush,0
+Female,21 and above,Married,None,No,No,No,BoreholeTap water,Market,Neighbours,Backyard,0
+Female,06-20 years,Single,Student,No,Yes,No,BoreholeTap water,Do not remember,Neighbours,Bush,0
+Male,21 and above,Married,None,No,Do not Know,No,BoreholeTap water,Do not remember,Neighbours,Bush,0
+Female,21 and above,Married,Civil servant/Business ,No,Yes,Yes,BoreholeTap water,Market,Neighbours,Burning,0
+Female,21 and above,Married,Civil servant/Business ,No,Yes,No,BoreholeTap water,Market,Neighbours,Bush,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Do not remember,Neighbours,Burning,0
+Female,21 and above,Married,Civil servant/Business ,No,Yes,No,Well,Market,Neighbours,Bush,0
+Female,21 and above,Married,None,No,Yes,No,BoreholeTap water,Do not remember,FoodSellers,Backyard,0
+Female,21 and above,Married,None,No,Yes,No,Well,Market,Both,Bush,0
+Male,21 and above,Married,Civil servant/Business ,No,Yes,No,BoreholeTap water,Market,FoodSellers,Bush,0
+Male,21 and above,Married,Civil servant/Business ,No,Yes,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Female,21 and above,Single,Civil servant/Business ,No,No,No,Well,Do not remember,None,Backyard,0
+Female,21 and above,Married,None,No,No,No,BoreholeTap water,Market,None,Bush,0
+Male,21 and above,Married,Civil servant/Business ,Yes,No,No,Well,Market,FoodSellers,Backyard,0
+Female,21 and above,Married,Civil servant/Business ,No,No,No,Well,Market,Neighbours,Backyard,0
+Female,21 and above,Married,Civil servant/Business ,No,Yes,No,BoreholeTap water,Market,Neighbours,Backyard,0
+Female,21 and above,Married,Civil servant/Business ,No,Yes,No,BoreholeTap water,Market,None,Bush,0
+Female,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Do not remember,Neighbours,Backyard,0
+Male,06-20 years,Single,Civil servant/Business ,No,Yes,No,BoreholeTap water,Road side,FoodSellers,Bush,0
+Male,21 and above,Married,Civil servant/Business ,Yes,Yes,No,BoreholeTap water,Do not remember,None,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Road side,Both,Bush,0
+Female,21 and above,Married,None,Yes,Yes,Yes,BoreholeTap water,Do not remember,None,Backyard,0
+Male,06-20 years,Single,Civil servant/Business ,Yes,No,No,Well,Market,None,Backyard,0
+Female,21 and above,Married,Civil servant/Business ,Yes,No,No,BoreholeTap water,Market,None,Bush,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,Well,Market,None,Bush,0
+Female,06-20 years,Single,Student,No,No,No,Well,Market,Neighbours,Backyard,0
+Female,21 and above,Married,None,No,No,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Female,06-20 years,Single,Student,No,No,No,Well,Market,None,Backyard,0
+Female,21 and above,Single,Student,No,No,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Female,21 and above,Single,Civil servant/Business ,No,No,No,BoreholeTap water,Market,None,Backyard,0
+Male,21 and above,Single,None,No,No,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Female,06-20 years,Single,Student,No,No,No,BoreholeTap water,Market,None,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,Well,Market,Neighbours,Backyard,0
+Female,21 and above,Married,None,No,No,No,BoreholeTap water,Market,FoodSellers,Bush,0
+Male,21 and above,Single,Civil servant/Business ,No,No,No,Well,Market,Both,Backyard,0
+Male,21 and above,Single,Civil servant/Business ,No,No,No,Well,Market,None,Backyard,0
+Female,21 and above,Married,None,No,No,No,Well,Market,None,Burning,0
+Female,21 and above,Married,None,No,No,No,BoreholeTap water,Market,Neighbours,Backyard,0
+Female,21 and above,Married,None,No,No,No,Well,Market,Neighbours,Backyard,0
+Female,06-20 years,Single,Student,No,No,No,Well,Market,None,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,Well,Market,Neighbours,Backyard,0
+Male,21 and above,Single,Civil servant/Business ,No,No,No,BoreholeTap water,Market,Neighbours,Backyard,0
+Female,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Market,None,Bush,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,Well,Market,None,Backyard,0
+Male,21 and above,Single,Civil servant/Business ,No,No,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Female,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Market,FoodSellers,Bush,0
+Female,06-20 years,Single,Student,No,No,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Female,21 and above,Married,Civil servant/Business ,No,No,No,Well,Market,None,Backyard,0
+Female,21 and above,Single,Student,No,No,No,Well,Market,None,Backyard,0
+Male,21 and above,Single,Student,No,No,No,BoreholeTap water,Market,None,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Market,Neighbours,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Female,06-20 years,Single,None,No,No,No,BoreholeTap water,Market,None,Bush,0
+Male,06-20 years,Single,None,No,No,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,Well,Market,None,Backyard,0
+Female,06-20 years,Single,Student,No,No,No,BoreholeTap water,Market,None,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Market,None,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,Well,Market,None,Backyard,0
+Female,06-20 years,Single,Student,No,No,No,BoreholeTap water,Market,None,Backyard,0
+Male,06-20 years,Single,Civil servant/Business ,No,No,No,Well,Market,None,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Market,None,Backyard,0
+Male,21 and above,Single,Student,No,No,No,BoreholeTap water,Market,None,Backyard,0
+Male,21 and above,Single,Student,No,No,No,Well,Market,None,Backyard,0
+Female,06-20 years,Single,Student,No,No,No,BoreholeTap water,Market,None,Backyard,0
+Male,06-20 years,Single,None,No,No,No,Well,Market,None,Backyard,0
+Female,21 and above,Married,Student,No,Do not Know,Yes,BoreholeTap water,Road side,Neighbours,BackyardBush,0
+Male,06-20 years,Single,Student,Yes,Do not Know,Yes,BoreholeTap water,Market,Neighbours,Bush,0
+Male,06-20 years,Single,None,No,Do not Know,No,Well,Market,FoodSellers,Bush,0
+Male,21 and above,Married,Civil servant/Business ,Yes,Yes,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Female,21 and above,Married,Civil servant/Business ,No,No,No,Well,Market,FoodSellers,Bush,0
+Female,06-20 years,Single,None,No,No,No,Well,Do not remember,FoodSellers,Bush,0
+Male,21 and above,Married,None,No,No,No,BoreholeTap water,Market,FoodSellers,Bush,0
+Male,21 and above,Married,None,Yes,Yes,Yes,BoreholeTap water,Do not remember,FoodSellers,Burning,0
+Female,06-20 years,Single,Student,No,No,No,Well,Road side,Neighbours,Bush,0
+Female,06-20 years,Single,None,No,No,No,BoreholeTap water,Road side,FoodSellers,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,Yes,Yes,No,BoreholeTap water,Road side,Neighbours,Burning,0
+Male,06-20 years,Single,Student,No,No,No,BoreholeTap water,Market,Neighbours,BackyardBush,0
+Female,06-20 years,Married,Student,No,No,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Female,06-20 years,Single,Student,No,No,No,Well,Market,FoodSellers,Bush,0
+Male,21 and above,Single,Student,Yes,No,Yes,BoreholeTap water,Road side,None,Bush,0
+Female,06-20 years,Single,None,Yes,Do not Know,Yes,BoreholeTap water,Do not remember,Neighbours,Bush,0
+Male,21 and above,Single,Student,No,Do not Know,No,Well,Do not remember,None,BackyardBush,0
+Male,21 and above,Married,None,Yes,Do not Know,No,Well,Market,Both,Backyard,0
+Male,21 and above,Single,Student,No,Yes,Yes,Well,Market,Both,Backyard,0
+Male,21 and above,Single,Student,No,Yes,Yes,Well,Market,FoodSellers,Backyard,0
+Female,06-20 years,Single,None,No,No,No,BoreholeTap water,Road side,Both,Backyard,0
+Female,21 and above,Married,Civil servant/Business ,No,Do not Know,No,BoreholeTap water,Market,FoodSellers,Burning,0
+Male,06-20 years,Single,Student,Yes,Yes,No,BoreholeTap water,Do not remember,FoodSellers,Burning,0
+Male,21 and above,Single,Student,No,No,Yes,BoreholeTap water,Road side,Neighbours,Burning,0
+Female,21 and above,Single,Student,Yes,Do not Know,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Male,06-20 years,Single,Student,No,Yes,Yes,BoreholeTap water,Market,Neighbours,Burning,0
+Female,06-20 years,Single,Student,Yes,No,No,BoreholeTap water,Road side,Neighbours,Bush,0
+Male,21 and above,Married,Civil servant/Business ,Yes,No,Yes,BoreholeTap water,Road side,FoodSellers,Burning,0
+Female,21 and above,Married,None,No,No,No,BoreholeTap water,Market,Neighbours,Burning,0
+Male,06-20 years,Single,Civil servant/Business ,Yes,No,Yes,BoreholeTap water,Market,FoodSellers,Backyard,0
+Male,06-20 years,Single,Student,No,Yes,Yes,BoreholeTap water,Market,Neighbours,Bush,0
+Male,21 and above,Single,Civil servant/Business ,No,No,Yes,BoreholeTap water,Market,Neighbours,Burning,0
+Female,21 and above,Married,None,No,No,No,BoreholeTap water,Market,Neighbours,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,Yes,No,Yes,BoreholeTap water,Market,FoodSellers,Backyard,0
+Male,06-20 years,Single,None,No,Yes,Yes,BoreholeTap water,Market,Neighbours,Bush,0
+Female,21 and above,Married,None,No,No,Yes,BoreholeTap water,Market,Neighbours,Burning,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Market,Neighbours,Backyard,0
+Male,06-20 years,Single,Civil servant/Business ,Yes,No,Yes,BoreholeTap water,Market,FoodSellers,Backyard,0
+Male,21 and above,Single,Civil servant/Business ,No,Yes,Yes,BoreholeTap water,Market,Neighbours,Bush,0
+Female,06-20 years,Single,None,No,No,Yes,BoreholeTap water,Market,Neighbours,Burning,0
+Female,06-20 years,Single,Civil servant/Business ,Yes,Yes,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Female,21 and above,Single,Civil servant/Business ,No,No,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Male,06-20 years,Single,Civil servant/Business ,No,No,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Male,06-20 years,Single,Student,No,No,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Female,06-20 years,Single,None,No,Do not Know,No,BoreholeTap water,Market,Both,Burning,0
+Female,06-20 years,Single,None,No,Do not Know,No,BoreholeTap water,Market,Both,BackyardBush,0
+Male,06-20 years,Single,None,No,Do not Know,No,BoreholeTap water,Do not remember,Both,BackyardBush,0
+Female,06-20 years,Single,Student,Yes,Yes,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Female,21 and above,Single,Student,No,No,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Male,06-20 years,Single,Student,Yes,Yes,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Male,06-20 years,Single,Student,Yes,Do not Know,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Female,06-20 years,Single,Student,No,No,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Male,06-20 years,Single,Student,Yes,Yes,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Female,06-20 years,Single,Student,No,No,No,BoreholeTap water,Do not remember,Neighbours,BackyardBush,0
+Female,06-20 years,Single,Student,No,No,No,BoreholeTap water,Do not remember,Neighbours,BackyardBush,0
+Male,06-20 years,Single,None,No,Do not Know,No,BoreholeTap water,Do not remember,None,BackyardBush,0
+Female,06-20 years,Single,Student,No,No,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Female,06-20 years,Single,None,No,No,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Male,06-20 years,Single,Student,No,No,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Male,06-20 years,Single,Student,No,No,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Male,06-20 years,Single,Student,Yes,Yes,Yes,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Female,06-20 years,Single,Student,Yes,Yes,Yes,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Female,06-20 years,Single,Student,Yes,Yes,Yes,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Male,06-20 years,Single,Student,Yes,Yes,Yes,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Female,06-20 years,Single,Student,No,No,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Male,06-20 years,Single,Student,No,No,No,BoreholeTap water,Do not remember,FoodSellers,BackyardBush,0
+Male,06-20 years,Single,Student,Yes,Yes,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Female,06-20 years,Single,Student,Yes,Yes,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Female,06-20 years,Single,Student,Yes,Yes,No,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Female,06-20 years,Single,Student,Yes,Yes,Yes,Well,Do not remember,FoodSellers,Burning,0
+Female,21 and above,Married,Civil servant/Business ,Yes,Yes,Yes,Well,Market,FoodSellers,BackyardBush,0
+Female,06-20 years,Single,Student,Yes,Yes,Yes,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Female,06-20 years,Single,Student,Yes,Yes,Yes,BoreholeTap water,Do not remember,None,BackyardBush,0
+Male,21 and above,Single,Student,Yes,Yes,Yes,Well,Do not remember,Neighbours,BackyardBush,0
+Male,06-20 years,Single,Student,No,No,No,Well,Do not remember,FoodSellers,BackyardBush,0
+Female,21 and above,Married,Civil servant/Business ,No,Yes,No,Well,Do not remember,None,BackyardBush,0
+Female,06-20 years,Single,Student,No,Yes,Yes,Well,Market,Neighbours,Backyard,0
+Female,21 and above,Married,None,No,Yes,Yes,BoreholeTap water,Market,None,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,Yes,No,Well,Market,FoodSellers,Backyard,0
+Male,21 and above,Single,Student,No,Yes,Yes,Well,Market,None,Burning,0
+Female,06-20 years,Single,Student,No,No,No,Well,Do not remember,Neighbours,Backyard,0
+Male,06-20 years,Single,Student,Yes,Yes,Yes,Well,Market,FoodSellers,Burning,0
+Female,06-20 years,Single,Student,No,Yes,Yes,Well,Market,FoodSellers,Burning,0
+Female,21 and above,Married,None,Yes,Do not Know,Yes,Well,Market,Neighbours,Bush,0
+Female,21 and above,Single,Student,Yes,Do not Know,Yes,Well,Road side,Neighbours,Bush,0
+Male,21 and above,Married,Civil servant/Business ,Yes,Do not Know,Yes,Well,Market,Both,Burning,0
+Male,06-20 years,Single,None,No,Do not Know,No,Well,Market,Neighbours,Bush,0
+Female,21 and above,Married,None,No,No,No,BoreholeTap water,Market,Both,BackyardBush,0
+Male,21 and above,Married,Civil servant/Business ,No,Yes,No,Well,Market,None,Backyard,0
+Male,06-20 years,Single,Civil servant/Business ,Yes,No,No,Well,Market,FoodSellers,Burning,0
+Male,21 and above,Single,Student,No,No,No,Well,Market,Neighbours,BackyardBush,0
+Female,06-20 years,Single,None,No,Do not Know,No,BoreholeTap water,Market,Neighbours,Backyard,0
+Male,21 and above,Single,Student,No,No,Yes,Well,Market,FoodSellers,Burning,0
+Female,21 and above,Married,Civil servant/Business ,Yes,Do not Know,No,Well,Market,Neighbours,Backyard,0
+Male,06-20 years,Single,None,No,Do not Know,No,Well,Market,Neighbours,Bush,0
+Male,06-20 years,Single,None,No,Yes,Yes,BoreholeTap water,Market,FoodSellers,BackyardBush,0
+Male,06-20 years,Single,Student,No,Yes,Yes,Well,Market,Neighbours,Burning,0
+Female,21 and above,Single,Student,No,No,No,Well,Do not remember,None,Backyard,0
+Male,21 and above,Single,Student,Yes,Do not Know,Yes,Well,Market,FoodSellers,Bush,0
+Female,21 and above,Married,None,Yes,Do not Know,Yes,Well,Market,Neighbours,Backyard,0
+Female,21 and above,Married,None,No,Yes,Yes,BoreholeTap water,Market,Neighbours,Bush,0
+Female,21 and above,Married,None,No,Yes,Yes,Well,Market,FoodSellers,Burning,0
+Male,21 and above,Single,None,Yes,Do not Know,No,Well,Market,FoodSellers,Backyard,0
+Female,21 and above,Married,None,Yes,No,Yes,Well,Market,FoodSellers,Bush,0
+Female,06-20 years,Single,None,No,No,Yes,Well,Market,Neighbours,BackyardBush,0
+Female,21 and above,Married,None,No,No,Yes,Well,Market,Both,Bush,0
+Female,06-20 years,Single,None,No,No,Yes,Well,Market,Neighbours,Backyard,0
+Female,06-20 years,Single,None,No,Yes,Yes,Well,Market,FoodSellers,Bush,0
+Male,21 and above,Married,None,Yes,Do not Know,No,Well,Market,Neighbours,Backyard,0
+Male,21 and above,Married,None,Yes,Yes,No,Well,Market,Neighbours,Backyard,0
+Male,21 and above,Married,None,Yes,Yes,Yes,Well,Market,FoodSellers,Bush,0
+Female,21 and above,Single,None,Yes,Do not Know,Yes,Well,Market,FoodSellers,BackyardBush,0
+Male,06-20 years,Single,None,No,Yes,No,Well,Market,Neighbours,Backyard,0
+Male,21 and above,Married,None,No,Yes,Yes,Well,Market,Neighbours,Backyard,0
+Male,06-20 years,Single,None,No,Do not Know,No,BoreholeTap water,Market,FoodSellers,Backyard,0
+Male,06-20 years,Single,None,No,Do not Know,Yes,Well,Market,Neighbours,Backyard,0
+Male,21 and above,Single,None,Yes,Do not Know,No,Well,Market,FoodSellers,Backyard,0
+Male,21 and above,Single,None,No,No,No,Well,Do not remember,FoodSellers,Backyard,0
+Male,21 and above,Married,None,No,No,No,Well,Do not remember,None,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,Well,Do not remember,None,Backyard,0
+Male,21 and above,Married,None,No,No,No,Well,Do not remember,None,Backyard,0
+Male,21 and above,Single,None,No,No,No,Well,Do not remember,None,Backyard,0
+Female,21 and above,Married,None,No,No,No,Well,Do not remember,None,Backyard,0
+Male,21 and above,Married,None,No,Do not Know,No,Well,Do not remember,Both,Burning,0
+Male,21 and above,Single,None,No,No,No,Well,Do not remember,None,Backyard,0
+Female,06-20 years,Single,None,No,No,No,Well,Market,Both,Bush,0
+Female,21 and above,Single,None,No,No,No,Well,Do not remember,None,Backyard,0
+Female,06-20 years,Single,None,No,No,No,Well,Do not remember,None,Backyard,0
+Male,06-20 years,Single,None,No,No,No,BoreholeTap water,Do not remember,None,Bush,0
+Female,21 and above,Married,None,Yes,No,Yes,Well,Do not remember,Neighbours,Backyard,0
+Male,21 and above,Single,None,No,No,No,Well,Do not remember,None,Bush,0
+Male,06-20 years,Single,None,No,No,No,Well,Do not remember,None,Backyard,0
+Female,21 and above,Married,None,No,Do not Know,No,BoreholeTap water,Do not remember,Both,Backyard,0
+Male,21 and above,Single,None,No,No,No,BoreholeTap water,Do not remember,None,Backyard,0
+Male,06-20 years,Single,None,No,No,No,Well,Do not remember,Both,BackyardBush,0
+Female,21 and above,Married,None,No,No,No,Well,Do not remember,None,Backyard,0
+Female,21 and above,Married,None,No,No,No,Well,Do not remember,None,Burning,0
+Female,21 and above,Married,None,No,No,No,Well,Do not remember,None,BackyardBush,0
+Female,06-20 years,Single,None,No,No,No,Well,Do not remember,None,Backyard,0
+Male,06-20 years,Single,None,No,No,No,Well,Do not remember,None,Bush,0
+Male,21 and above,Single,None,No,No,No,Well,Do not remember,None,Backyard,0
+Female,21 and above,Single,None,No,No,No,BoreholeTap water,Do not remember,Both,Burning,0
+Male,21 and above,Married,None,No,No,No,BoreholeTap water,Do not remember,None,Backyard,0
+Male,21 and above,Single,None,No,No,No,Well,Do not remember,None,Backyard,0
+Female,21 and above,Single,None,No,No,No,Well,Do not remember,None,Backyard,0
+Male,21 and above,Single,Civil servant/Business ,No,No,No,Well,Do not remember,None,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Do not remember,None,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,BoreholeTap water,Do not remember,None,Backyard,0
+Male,21 and above,Married,None,No,No,No,Well,Market,Both,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,Do not Know,No,BoreholeTap water,Market,Both,Backyard,0
+Male,21 and above,Married,Civil servant/Business ,No,No,No,Well,Do not remember,None,Backyard,0

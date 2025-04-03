@@ -1,12 +1,17 @@
-# Load necessary libraries
-library(ggplot2)
-library(dplyr)
-library(readr)
-library(tidyverse)
+# Load necessary libraries with Pacman
+
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(
+  ggplot2,
+  dplyr,
+  readr,
+  tidyverse,
+  here
+)
 
 # Load the datasets
-cases <- read_csv("cases.csv")
-cc_study <- read_csv("cc-study.csv", skip = 1)
+cases <- read_csv(here("Data Vizualization #1" ,"data","cases.csv"))
+cc_study <- read_csv(here("Data Vizualization #1" ,"data","cc-study.csv"), skip = 1)
 
 # ----- Question 1: Identify the Index Case -----
 index_case_week <- min(cases$week[cases$cases > 0])
