@@ -1,6 +1,6 @@
-# Cholera Epidemic Data Analysis – Data Vizualization #1 (CDAD 1046EQ)
+# Infectious Diseases (CDAD 1046EQ)
 
-## Overview
+## Cholera Epidemic Data Analysis – Data Vizualization #1 
 
 This project investigates a cholera epidemic that occurred in 2023 in a large city in a low-income country. The analysis uses two datasets:
 
@@ -12,12 +12,15 @@ The objective was to explore the progression of the epidemic, evaluate public he
 ---
 
 ## Repository Contents
-
-- Data Vizualization #1
-- `Dataviz1-2025.docx`: Assignment prompt and context
-- `Dataviz 1 Report.pdf`: Final report with answers, figures, and interpretations
-- `script/`: Directory containing R scripts used for analysis
-  - Annotated R code for plotting epidemic curve, computing CFR, and running regressions
+```
+Data Vizualization#1 /
+├── data/           # Contains raw datasets: cases.csv and cc-study.csv
+├── outputs/        # Generated plots and tables
+├── script/         # Annotated R script used for analysis
+├── Dataviz 1 Report.pdf   # Final report answering all questions
+├── .DS_Store       # macOS metadata
+└── README.md       
+```
 
 ---
 
