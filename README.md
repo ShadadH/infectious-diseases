@@ -34,7 +34,7 @@ Data Vizualization#1 /
 ## How to Reproduce the Analysis
 
 1. Load `cases.csv` and `cc-study.csv` into R.
-2. Use the provided scripts in the `/code` folder to:
+2. Use the provided script in the `/script` folder to:
    - Plot epidemic curve
    - Compute weekly CFR
    - Run logistic regressions for case-control data
