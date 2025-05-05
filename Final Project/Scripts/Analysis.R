@@ -7,8 +7,7 @@ library(ggplot2)
 library(rnaturalearth)
 library(rnaturalearthdata)
 library(sf)
-
-
+library(scales)
 
 data <- read_rds(here("data", "leprosy_data.rds"))
 
@@ -36,7 +35,6 @@ ggplot(global_trend, aes(x = Year, y = Global_Cases)) +
        x = "Year", y = "New Cases") +
   theme_minimal()
 
-
 # Get top 15 countries by incidence (latest year)
 top_incidence <- leprosy_merged %>%
   filter(Year == max(Year)) %>%
@@ -51,7 +49,6 @@ regional_trend <- leprosy_merged %>%
     Total_Cases = sum(New_Cases, na.rm = TRUE),
     .groups = "drop"
   )
-
 # Plot multiple lines by region
 ggplot(regional_trend, aes(x = Year, y = Total_Cases, color = WHO_Region)) +
   geom_line(size = 1.2) +
@@ -85,7 +82,7 @@ ggplot(regional_incidence, aes(x = Year, y = Avg_Incidence, color = WHO_Region))
   theme(legend.position = "bottom")
 
 
-# Plot
+# Plot Top 10 Countries by Incidence
 ggplot(top_incidence, aes(x = reorder(Country, Incidence_per_100k), y = Incidence_per_100k)) +
   geom_col(fill = "darkorange") +
   coord_flip() +
@@ -96,17 +93,15 @@ ggplot(top_incidence, aes(x = reorder(Country, Incidence_per_100k), y = Incidenc
   ) +
   theme_minimal()
 
+#Plot World Map Data --------------------------------
 
-# Get world map with ISO_A3 codes
 world <- ne_countries(scale = "medium", returnclass = "sf") %>%
   select(name, iso_a3, geometry)
 
-# Prepare leprosy data for latest year
 leprosy_map_data <- leprosy_merged %>%
   filter(Year == 2023) %>%
   select(Country_Code, New_Cases, Incidence_per_100k)
 
-# Merge map and leprosy data by ISO-3 code
 world_leprosy <- world %>%
   left_join(leprosy_map_data, by = c("iso_a3" = "Country_Code"))
 
@@ -116,6 +111,8 @@ ggplot(world_leprosy) +
   labs(title = "New Leprosy Cases by Country (Latest Year)",
        fill = "Cases (log)") +
   theme_minimal()
+
+# Zoom in on Asia
 
 ggplot(world_leprosy) +
   geom_sf(aes(fill = New_Cases), color = "grey50") +
@@ -136,7 +133,8 @@ ggplot(world_leprosy) +
     plot.title = element_text(face = "bold")
   )
 
-# Calculate year-over-year % change for each country
+# Find potential outbreaks using year-over-year % change for each country ------------
+
 leprosy_growth <- leprosy_merged %>%
   arrange(Country, Year) %>%
   group_by(Country) %>%
@@ -145,7 +143,6 @@ leprosy_growth <- leprosy_merged %>%
   ) %>%
   ungroup()
 
-# Filter to countries with >50% spike in recent years
 potential_outbreaks <- leprosy_growth %>%
   filter(Year >= 2018, YoY_Change > 50, New_Cases > 50)  # add a threshold to ignore noise
 
@@ -153,16 +150,10 @@ potential_outbreaks <- leprosy_growth %>%
 potential_outbreaks <- leprosy_growth %>%
   filter(Year >= 2018, YoY_Change > 50, New_Cases > 50, is.finite(YoY_Change))
 
-library(dplyr)
-library(ggplot2)
-library(scales)
-
-# Get top 5 countries with largest YoY increase since 2018
 top_yoy_spikes <- potential_outbreaks %>%
   arrange(desc(YoY_Change)) %>%
   slice_head(n = 5)
 
-# Plot with value labels
 ggplot(top_yoy_spikes, aes(x = reorder(Country, YoY_Change), y = YoY_Change)) +
   geom_col(fill = "firebrick") +
   geom_text(aes(label = paste0(round(YoY_Change), "%")), 
